@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Spice Garden",
+    "cuisine": "Indian",
+    "location": "45 MG Road, Bangalore",
+    "rating": 4.5,
+    "reviews": [
+      "Best butter chicken in town",
+      "Excellent service"
+    ],
+    "website": "https://spicegarden.com",
+    "phoneNumber": "+919876543210",
+    "openHours": "10:00 AM - 11:00 PM",
+    "priceRange": "$$$ (31-60)",
+    "reservationsNeeded": false,
+    "deliveryAvailable": true,
+    "menuUrl": "https://spicegarden.com/menu",
+    "photos": [
+      "https://example.com/indian1.jpg",
+      "https://example.com/indian2.jpg"
+    ]
+  },
+
+  {
+    "name": "Dragon Wok",
+    "cuisine": "Chinese",
+    "location": "22 Park Street, Kolkata",
+    "rating": 4.2,
+    "reviews": [
+      "Authentic Chinese food",
+      "Noodles were delicious"
+    ],
+    "website": "https://dragonwok.com",
+    "phoneNumber": "+918888888888",
+    "openHours": "11:00 AM - 12:00 AM",
+    "priceRange": "$$ (11-30)",
+    "reservationsNeeded": true,
+    "deliveryAvailable": false,
+    "menuUrl": "https://dragonwok.com/menu",
+    "photos": [
+      "https://example.com/chinese1.jpg",
+      "https://example.com/chinese2.jpg"
+    ]
+  },
+
+  {
+    "name": "Pizza Heaven",
+    "cuisine": "Italian",
+    "location": "78 Linking Road, Mumbai",
+    "rating": 4.8,
+    "reviews": [
+      "Best wood-fired pizza",
+      "Cheese quality is amazing"
+    ],
+    "website": "https://pizzaheaven.com",
+    "phoneNumber": "+917777777777",
+    "openHours": "9:00 AM - 11:30 PM",
+    "priceRange": "$$ (11-30)",
+    "reservationsNeeded": false,
+    "deliveryAvailable": true,
+    "menuUrl": "https://pizzaheaven.com/menu",
+    "photos": [
+      "https://example.com/pizza1.jpg",
+      "https://example.com/pizza2.jpg"
+    ]
+  },
+
+  {
+    "name": "Sakura Sushi",
+    "cuisine": "Japanese",
+    "location": "12 Sakura Lane, Tokyo",
+    "rating": 4.9,
+    "reviews": [
+      "Fresh sushi and great presentation",
+      "Premium dining experience"
+    ],
+    "website": "https://sakurasushi.com",
+    "phoneNumber": "+81123456789",
+    "openHours": "12:00 PM - 10:00 PM",
+    "priceRange": "$$$$ (61+)",
+    "reservationsNeeded": true,
+    "deliveryAvailable": false,
+    "menuUrl": "https://sakurasushi.com/menu",
+    "photos": [
+      "https://example.com/sushi1.jpg",
+      "https://example.com/sushi2.jpg"
+    ]
+  },
+
+  {
+    "name": "Taco Fiesta",
+    "cuisine": "Mexican",
+    "location": "55 Sunset Boulevard, Los Angeles",
+    "rating": 4.1,
+    "reviews": [
+      "Amazing tacos",
+      "Quick delivery service"
+    ],
+    "website": "https://tacofiesta.com",
+    "phoneNumber": "+12125551234",
+    "openHours": "10:00 AM - 1:00 AM",
+    "priceRange": "$ (0-10)",
+    "reservationsNeeded": false,
+    "deliveryAvailable": true,
+    "menuUrl": "https://tacofiesta.com/menu",
+    "photos": [
+      "https://example.com/taco1.jpg",
+      "https://example.com/taco2.jpg"
+    ]
+  }
+]
+
